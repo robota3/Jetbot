@@ -1,0 +1,5 @@
+jetbot
+opencv-python
+numpy
+ipywidgets
+traitlets
